@@ -50,6 +50,11 @@ It combines a **machine learning model (XGBoost)** + a **Streamlit web app** + a
 
 ---
 
+## 🚀 Live Demo  
+👉 **https://ev-range-project-id6ac4p2er39b8m6fyjc5m.streamlit.app**
+
+---
+
 ## 💡 Example Prediction
 Battery: 60 kWh
 Efficiency: 150 Wh/km
